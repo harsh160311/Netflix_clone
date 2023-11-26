@@ -2,7 +2,7 @@
 
 Netflix Landing Page Clone with HTML, CSS &amp; JS
 
-https://binaryleo.github.io/Netflix_Clone/
+
 <div align="center" style="margin: 20px; text-align: center">
 
   [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/BinaryLeo/Netflix_Clone/blob/main/LICENSE)
